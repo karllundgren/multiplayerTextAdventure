@@ -1,0 +1,56 @@
+1
+Grand Hall
+Stay much longer and you might not be walking out of this castle alive...
+3 9 5
+2
+Snape's Dungeon
+shelves of large glass jars filled with slimy, revolting things, such as bits of animals and plants, floating in potions of varying colours.
+4 13
+3
+The Kitchens
+House-elves inhabit this room and are responsible for preparing meals.
+1 9
+4
+Slytherin Common Room
+The windows look out into the depths of the Hogwarts lake. We often see the giant squid swooshing by -Malfoy
+2 13
+5
+Lower Grand Staircase
+The Grand Staircases go as high as the seventh floor. The stairs also have a knack for moving- your connections may not always remain the same!
+1 13 14
+6
+Griffindor Common Room
+Gryffindor Tower: roaring fire, stuffed armchairs, and the great view we have from our windows. -Fred Weasley
+12 7
+7
+7th Floor Deserted Corridor
+Once described to Harry by the House-elf Dobby, notice the enormous tapestry depicting Barnabas the Barmy's foolish attempt to train trolls for the Ballet.
+8 12
+8
+Room of Requirement
+a room that a person can only enter when they have real need of it. Sometimes it is there, and sometimes it is not, but when it appears, it is always equipped for the seekers needs. Youve just found the Elder Wand, Invisibility Cloak, and Sorcerers Stone, you have maximum stats!
+7
+9
+Forbidden Forest
+"As ever, I would like to remind you all that the Forest in the grounds is out-of-bounds to students." -Professor Mcgonagall
+1 3
+10
+Second Floor Girls Lavatory
+where a ghost of a girl named Myrtle Warren, more commonly known as Moaning Myrtle was often found.
+14 11
+11
+The Chamber of Secrets
+The story goes that Slytherin had built a hidden chamber in the castle to unleash the horror within and purge the school of all who were unworthy to study magic
+4 10 9
+12
+Upper Grand Staircase
+The Grand Staircases go as high as the seventh floor. The stairs also have a knack for moving- your connections may not always remain the same!
+14 6 7
+13
+Dungeons
+colder here than in the main castle...
+2 4 5
+14
+Middle Grand Staircase
+The Grand Staircases go as high as the seventh floor. The stairs also have a knack for moving- your connections may not always remain the same!
+5 10 12

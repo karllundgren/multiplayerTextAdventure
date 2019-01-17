@@ -1,0 +1,120 @@
+Voldemort
+1
+3000
+3000
+3000
+500
+1000
+I am Lord Voldemort. Fear me!
+11111000
+2800
+malfoy
+7
+500
+100
+100
+100
+3
+scrawny
+11111000
+500
+belatrix lestrange
+1
+2000
+900
+900
+900
+600
+I was and am the Dark Lord's most loyal servant
+11111000
+2000
+basalisk
+11
+2500
+800
+800
+800
+100
+known as the King of Serpents- there is no creature more deadly
+11111000
+2500
+Severus Snape
+2
+700
+400
+400
+300
+50
+Potions Master
+11111000
+700
+Nagini
+4
+1000
+800
+700
+600
+500
+Voldemorts beloved snake.. also a horcrux
+11111000
+700
+Dementor #1
+9
+600
+200
+200
+200
+0
+Use your Patronus or one of these will eat your soul..
+11111000
+600
+Dementor #2
+9
+600
+200
+200
+200
+0
+Use your Patronus or one of these will eat your soul..
+11111000
+600
+Dementor #3
+10
+600
+200
+200
+200
+0
+Use your Patronus or one of these will eat your soul..
+11111000
+600
+Dementor #4
+14
+600
+200
+200
+200
+0
+Use your Patronus or one of these will eat your soul..
+11111000
+600
+Dementor #5
+12
+600
+200
+200
+200
+0
+Use your Patronus or one of these will eat your soul..
+11111000
+600
+Dementor #6
+13
+600
+200
+200
+200
+0
+Use your Patronus or one of these will eat your soul..
+11111000
+600
