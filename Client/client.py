@@ -3,8 +3,7 @@ import threading
 import subprocess as sub
 class Client(threading.Thread):
     s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-    #address=('127.0.0.1',5022)
-    address = ("isoptera.lcsc.edu", 5191)
+    address=('127.0.0.1',5022)
     data=[]
     dataLock=threading.Lock()
     def getData(self):
