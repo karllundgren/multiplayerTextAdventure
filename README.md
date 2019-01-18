@@ -10,7 +10,7 @@ All of the information you will type will be in the text box that spans across t
 
 First you will begin by entering your player information
 1. You'll enter your Name
-![alt text](https://github.com/karllundgren/multiplayerTextAdventure/images/gui1.png)
+![alt text](https://github.com/karllundgren/multiplayerTextAdventure/blob/master/images/gui1.PNG)
 2. You'll enter your attack, defense and regeneration values (total is to be between 0 and 500 or you will get the error message shown below in the top right of the window)
 
 
