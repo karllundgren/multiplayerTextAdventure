@@ -22,7 +22,10 @@
 Begin by entering your player information (Press 'Enter' after entering)
 1. Enter your Name
 
-2. Enter your attack, followed by your defense and regeneration values (total of the three should be between 0 and 500)
+2. Enter the following values as prompted (total of the three should be between 0 and 500)
+- Attack
+- Defense
+- Regeneration
 ![alt text](https://github.com/karllundgren/multiplayerTextAdventure/blob/master/images/gui2.PNG)
 
 3. Enter the letter 'S' to enter the game
