@@ -1,13 +1,13 @@
 # multiplayerTextAdventure
 
-#Run:
+# Run:
 
 1. run server.py
 2. run main.py
 3. experience the adventure!
 
 
-#General Game Controls:
+# General Game Controls:
 
 - The horizontal Text Box at the bottom of the window is used for all text entry:
 ![alt text](https://github.com/karllundgren/multiplayerTextAdventure/blob/master/images/bottomBarGui.PNG)
@@ -20,7 +20,7 @@
 ![alt text](https://github.com/karllundgren/multiplayerTextAdventure/blob/master/images/gui1.PNG)
 
 
-#Setup:
+# Setup:
 
 Begin by entering your player information (Press 'Enter' after entering)
 1. Enter your Name
@@ -31,7 +31,7 @@ Begin by entering your player information (Press 'Enter' after entering)
 3. Enter the letter 'S' to enter the game
 ![alt text](https://github.com/karllundgren/multiplayerTextAdventure/blob/master/images/guiStart.PNG)
 
-#Gameplay:
+# Gameplay:
 
 Upon starting the game notice that you're now seeing (from left most column to right)
 - Updated stats 
@@ -40,32 +40,32 @@ Upon starting the game notice that you're now seeing (from left most column to r
 - Messages from other players and the game server
 ![alt text](https://github.com/karllundgren/multiplayerTextAdventure/blob/master/images/guiStarted.PNG)
 
-##Actions:
+## Actions:
 Actions are displayed across the top bar of the window:
 - Press 'Enter' after each command
 - Uppercase or lowercase letters can be used for commands
 ![alt text](https://github.com/karllundgren/multiplayerTextAdventure/blob/master/images/guiTopBar.PNG)
 
-###Fight:
+### Fight:
 - Type the letter 'F' to begin a fight against the combined force of the monsters in the room. (If other players have the 'join fight' tag, their attack will join with yours to defeat the monsters)
-###Start:
+### Start:
 - Type the letter 'S' to start (this is the first command after creating your character)
 
-###Quit:
+### Quit:
 - Type the letter 'Q'
 
-###Change Room:
+### Change Room:
 - Type the letter 'C'
 - You will then be prompted for the connecting room you want to go to. Type the number of that room to switch
 ![alt text](https://github.com/karllundgren/multiplayerTextAdventure/blob/master/images/guiChangeRoom1.PNG)
 
-###Player VS Player:
+### Player VS Player:
 - Type the letter 'P'
 
-###Loot:
+### Loot:
 - Type the letter 'L'
 
-###Message:
+### Message:
 - Type the letter 'M'
 - You will then be prompted to enter the message you wish to send
 - Messages are sent to all other players
@@ -75,11 +75,11 @@ Notice below that the prompt changes and now you'll type the room number you wan
 ![alt text](https://github.com/karllundgren/multiplayerTextAdventure/blob/master/images/guiChangeRoom2.PNG)
 
 
-#Winning the Game:
+# Winning the Game:
 
 The game is won by defeating Lord Voldemort and all of the other monsters (this is most easily done by naming your character Harry Potter, or entering the Room of Requirement)
 
-#Host and port definitions:
+# Host and port definitions:
 
 In the server the host and port are at line 872 in server.py
 In the client, the host and port are at line 6 in client.py
