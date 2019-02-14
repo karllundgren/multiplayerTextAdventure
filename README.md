@@ -64,7 +64,7 @@ Actions are displayed across the top bar of the window:
 
 ### Player VS Player:
 - Type the letter 'P' to fight another player in the same room as you
-- YYou will then be prompted for a name, enter the name of the player you wish to fight
+- You will then be prompted for a name, enter the name of the player you wish to fight
 
 ### Loot:
 - Type the letter 'L' 
