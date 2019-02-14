@@ -58,7 +58,7 @@ Actions are displayed across the top bar of the window:
 - Type the letter 'C'
 ![alt text](https://github.com/karllundgren/multiplayerTextAdventure/blob/master/images/guiChangeRoom1.PNG)
 
-Notice below that the prompt changes and now you'll type the room number you want to go to
+- Notice below that the prompt changes and now you'll type the room number you want to go to
 (The room connections and their numbers are shown to you in the 2nd vertical column from the left)
 ![alt text](https://github.com/karllundgren/multiplayerTextAdventure/blob/master/images/guiChangeRoom2.PNG)
 
@@ -79,7 +79,7 @@ Notice below that the prompt changes and now you'll type the room number you wan
 
 # Winning the Game:
 
-The game is won by defeating Lord Voldemort and all of the other monsters (this is most easily done by naming your character Harry Potter, or entering the Room of Requirement)
+The game is won by defeating Lord Voldemort and all of the other monsters (this is most easily done by naming your character 'Harry Potter', or entering the Room of Requirement)
 
 # Host and port definitions:
 
@@ -87,3 +87,4 @@ In the server the host and port are at line 872 in server.py
 In the client, the host and port are at line 6 in client.py
 
 These can be changed to run server.py on a server so users on different computers can connect
+Leave them as they are to run server and client on localhost
