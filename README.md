@@ -1,11 +1,11 @@
 # multiplayerTextAdventure
 
-Run:
+#Run:
 1. run server.py
 2. run main.py
 3. experience the adventure!
 
-Gameplay:
+#Gameplay:
 All of the information you will type will be in the text box that spans across the bottom of the window. The tag to the left of the bar will prompt for the kind of information to enter.
 
 First you will begin by entering your player information
@@ -33,10 +33,10 @@ Notice below that the prompt changes and now you'll type the room number you wan
 ![alt text](https://github.com/karllundgren/multiplayerTextAdventure/blob/master/images/guiChangeRoom2.PNG)
 
 
-Winning the Game:
+#Winning the Game:
 The game is won by defeating Lord Voldemort and all of the other monsters (this is most easily done by naming your character Harry Potter, or entering the Room of Requirement)
 
-Host and port:
+#Host and port definitions:
 In the server the host and port are at line 872 in server.py
 In the client, the host and port are at line 6 in client.py
 
