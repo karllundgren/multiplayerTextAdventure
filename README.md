@@ -9,11 +9,9 @@
 
 # General Game Controls:
 
-- The horizontal Text Box at the bottom of the window is used for all text entry:
+- The horizontal Text Box at the bottom of the window is used for all text entry
+- The tag to the left of the bar shows the expected information input (in this case it's 'Enter your Player Name:'):
 ![alt text](https://github.com/karllundgren/multiplayerTextAdventure/blob/master/images/bottomBarGui.PNG)
-
-- The tag to the left of the bar shows the expected information input:
-![alt text](https://github.com/karllundgren/multiplayerTextAdventure/blob/master/images/bottomBarPrompt.PNG)
 
 - The vertical text boxes are used to display game information from the server (rooms, messages, other players, monsters, etc.)
 - The leftmost vertical bar displays your character information:
