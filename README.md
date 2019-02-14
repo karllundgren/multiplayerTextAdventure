@@ -52,27 +52,29 @@ Actions are displayed across the top bar of the window:
 - Type the letter 'S' to start (this is the first command after creating your character)
 
 ### Quit:
-- Type the letter 'Q'
+- Type the letter 'Q' to disconnect from the game server
 
 ### Change Room:
 - Type the letter 'C'
-- You will then be prompted for the connecting room you want to go to. Type the number of that room to switch
 ![alt text](https://github.com/karllundgren/multiplayerTextAdventure/blob/master/images/guiChangeRoom1.PNG)
 
+Notice below that the prompt changes and now you'll type the room number you want to go to
+(The room connections and their numbers are shown to you in the 2nd vertical column from the left)
+![alt text](https://github.com/karllundgren/multiplayerTextAdventure/blob/master/images/guiChangeRoom2.PNG)
+
 ### Player VS Player:
-- Type the letter 'P'
+- Type the letter 'P' to fight another player in the same room as you
+- YYou will then be prompted for a name, enter the name of the player you wish to fight
 
 ### Loot:
-- Type the letter 'L'
+- Type the letter 'L' 
+- You will then be prompted for a name, enter the name of the player or monster you want to steal gold from
+- Note: you can only loot from players with no health
 
 ### Message:
 - Type the letter 'M'
 - You will then be prompted to enter the message you wish to send
 - Messages are sent to all other players
-
-Notice below that the prompt changes and now you'll type the room number you want to go to
-(The room connections and their numbers are shown to you)
-![alt text](https://github.com/karllundgren/multiplayerTextAdventure/blob/master/images/guiChangeRoom2.PNG)
 
 
 # Winning the Game:
