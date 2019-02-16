@@ -1,9 +1,13 @@
 # multiplayerTextAdventure
 
 # Run:
+### Server
+1. navigate to directory with the server files
+2. execute 'python3 server.py' command
 
-1. run server.py
-2. run main.py
+### Client
+1. Navigate to directory with the client files 
+2. execute 'python3 main.py' command
 3. experience the adventure!
 
 
